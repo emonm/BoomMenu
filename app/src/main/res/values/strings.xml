@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BoomMenu</string>
+
+    <string name="button_type">Button Type</string>
+    <string name="circle_button">Circle Button</string>
+    <string name="hamburger_button">Hamburger Button</string>
+
+    <string name="button_number">Button Number</string>
+
+    <string name="boom_type">Boom Type</string>
+
+    <string name="place_type">Place Type</string>
+
+    <string name="animation_duration">Animation Duration</string>
+    <string name="animation_start_delay">Animation Start Delay</string>
+    <string name="animation_rotation_degree">Animation Rotation Degree</string>
+    <string name="auto_dismiss">Auto Dismiss</string>
+
+    <string name="show_order_type">Show Order</string>
+    <string name="show_order_type_default">Default</string>
+    <string name="show_order_type_reverse">Reverse</string>
+    <string name="show_order_type_random">Random</string>
+
+    <string name="hide_order_type">Hide Order</string>
+    <string name="hide_order_type_default">Default</string>
+    <string name="hide_order_type_reverse">Reverse</string>
+    <string name="hide_order_type_random">Random</string>
+
+    <string name="animation_listener">Animation Listener</string>
+
+    <string name="click_effect">Click Effect</string>
+    <string name="click_effect_ripple">Ripple</string>
+    <string name="click_effect_normal">Normal</string>
+
+    <string name="examples">Examples</string>
+    <string name="easy_example">Easy Example</string>
+    <string name="list_view_example">ListView Example</string>
+    <string name="share_example">Share Example</string>
+    <string name="builder_example">Builder Example</string>
+
+    <string name="easy_example_text">This is an easy use of BoomMenuButton.</string>
+    <string name="share_example_text">This is a share example of BoomMenuButton.</string>
+
+    <string name="share_line_width">Line Width</string>
+
+</resources>
